@@ -1,7 +1,5 @@
 # Decoders.dev
 
----
-
 ### Objetivo
 
 Criar uma rede social open-source, para desenvolvedores para fins didáticos.
